@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'gbv-render-com.onrender.com';
+export const domain = 'gbv-onrender.com/';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
