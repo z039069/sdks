@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'kek-z31w.onrender.com';
+export const domain = 'https://jdfj.onrender.com';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
