@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'deno-4ard.onrender.com';
+export const domain = 'kek-z31w.onrender.com';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
