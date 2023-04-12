@@ -1,0 +1,8 @@
+{
+	"unstable_features": true,
+	"experimental_features": true,
+	"tasks": {
+		"dev": "deno run --unstable --watch --allow-net server.ts",
+		"start": "deno run --unstable --allow-net server.ts"
+	}
+}
