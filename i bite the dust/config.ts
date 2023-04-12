@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'gbv-bdoj.onrender.com';
+export const domain = 'deno-4ard.onrender.com';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
